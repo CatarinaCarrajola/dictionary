@@ -1,5 +1,19 @@
+body {
+  background: linear-gradient(
+    -20deg,
+    rgb(233, 222, 250) 0%,
+    rgb(251, 252, 219) 100%
+  );
+}
+
 .App-header {
   margin: 30px 0;
+}
+
+.App-logo {
+  max-width: 150px;
+  display: block;
+  margin: 0 auto;
 }
 
 .App-footer {
